@@ -56,3 +56,7 @@ This project is for **educational and research purposes**. Not affiliated with A
 ## 📝 Terms
 
 Free to use, modify, and distribute. No warranty. No ownership claimed.
+
+## License
+
+Free to use. No ownership claimed.
